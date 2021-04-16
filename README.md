@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/n0obit4/SFind"><img src="https://raw.githubusercontent.com/n0obit4/SFind/master/Logo.png" alt="SFind Logo" border="0" width="180"></a>
+  <a href="https://github.com/n0obit4/SFind"><img src="https://raw.githubusercontent.com/n0obit4/SFind/master/SFind_logo.png" alt="SFind Logo" border="0" width="180"></a>
   <br>
   SFind
   <br>
